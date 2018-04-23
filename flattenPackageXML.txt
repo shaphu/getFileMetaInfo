@@ -1,0 +1,270 @@
+ApexClass/AccountAliasHelper
+ApexClass/AccountAliasSelector
+ApexClass/AccountHelper
+ApexClass/AccountService
+ApexTrigger/ConflictofInterest
+ApexTrigger/ContactTrigger
+ApexTrigger/GoodsTrigger
+AuraDefinitionBundle/FumoGridView
+AuraDefinitionBundle/FumoInstallments
+CustomField/Goods__c.Planning_Status__c
+CustomField/Goods__c.Goods_Number__c
+CustomMetadata/Streaming_Topics.OTInstallmentsTopic
+CustomMetadata/Streaming_Topics.OppInstallmentsTopic
+CustomMetadata/Streaming_Topics.OpportunityTopic
+CustomMetadata/Streaming_Topics.GoodsTopic
+CustomObject/Conflict_of_Interest__c
+FlexiPage/Conflict_of_Interest_Record_Page
+FlexiPage/Conflict_of_Interest_Record_Page1
+FlexiPage/Conflict_of_Interest_Record_Page2
+FlexiPage/Conflict_of_Interest_Record_Page3
+Group/Sharing_Group_Hong_Kong_All
+Group/Sharing_Group_Hong_Kong_Island_Office
+Group/Sharing_Group_Hong_Kong_KWL_Offiice
+Group/Sharing_Group_Hong_Kong_Office_all
+Layout/Goods__c-APAC Goods Layout
+Layout/Goods__c-EMEA Goods Layout
+Layout/Goods__c-Goods Layout
+PermissionSet/APAC_Campaigns_and_CampaignLogic_Create_Edit_Permissions
+PermissionSet/APAC_Capital_Markets_Asia
+PermissionSet/APAC_Capital_Markets_India
+PermissionSet/APAC_Communication_Preferences_Create_Edit_Permissions
+PermissionSet/APAC_Edit_Permission_for_Goods
+PermissionSet/APAC_Enquiries_Space_Assessment_Create_Edit_Permissions
+PermissionSet/APAC_Landlord_Listing_and_Deal_Permissions
+PermissionSet/APAC_Pitch_Management_Team
+PermissionSet/APAC_Preference_Edit_Publications_Read_Permissions
+PermissionSet/APAC_Preference_Publication_Edit_Permissions
+PermissionSet/APAC_Strategic_Client_Permissions
+PermissionSet/Account_Competitor_Permission
+PermissionSet/Allow_updates_to_Key_Client_and_Pursuit_Account_LOB_fields_on_Account
+PermissionSet/AshDebug
+PermissionSet/Asset_Services_Country_Permissions_Australia
+PermissionSet/Asset_Services_Investor_Services_Account_Field_Rights
+PermissionSet/Asset_Services_LOB
+PermissionSet/Batch_User_Permission
+PermissionSet/Okram999_Public_Group_Permission
+PermissionSet/CM_India
+PermissionSet/Cases_Permission_Functional_Analysts
+PermissionSet/Cases_Permission_Regional_Product_Owners
+PermissionSet/Cases_Permission_Regional_Support_Specialists
+PermissionSet/Cases_Permission_Support_Specialists
+PermissionSet/Chatter_Group_Create_Permission
+PermissionSet/Country_Permissions_Australia
+PermissionSet/Country_Permissions_CEE
+PermissionSet/Country_Permissions_France
+PermissionSet/Country_Permissions_India
+PermissionSet/Country_Permissions_Italy
+PermissionSet/Country_Permissions_Netherlands
+PermissionSet/Create_and_Customize_Reports
+PermissionSet/DEV_Additional_Access
+PermissionSet/DIG_Team
+PermissionSet/Dashboards_Create_Edit_Permission
+PermissionSet/DataHugOkram999
+PermissionSet/Data_Export_Permissions
+PermissionSet/Data_Integration
+PermissionSet/Demand_Tools_Permission_Set
+PermissionSet/EMEA_A_T_Investor
+PermissionSet/EMEA_A_T_Occupier
+PermissionSet/EMEA_Asset_Services
+PermissionSet/EMEA_Asset_Services_Service_Line_Champion
+PermissionSet/EMEA_BC_P
+PermissionSet/EMEA_Capital_Markets_Capital_Advisors
+PermissionSet/EMEA_Capital_Markets_Capital_Advisors_Service_Line_Champion
+PermissionSet/EMEA_Capital_Markets_Investment_Properties
+PermissionSet/EMEA_Central_London
+PermissionSet/EMEA_Central_London_Service_Line_Champion
+PermissionSet/EMEA_Corporate_Marketing
+PermissionSet/EMEA_Corporate_Marketing_Service_Line_Champion
+PermissionSet/EMEA_Development
+PermissionSet/EMEA_Edit_Permission_for_Pitch_Advisor
+PermissionSet/EMEA_Ireland_Marketing
+PermissionSet/EMEA_Ireland_Marketing_Service_Line_Champion
+PermissionSet/EMEA_Leads_Permissions
+PermissionSet/EMEA_Occupier_Client_Care
+PermissionSet/EMEA_Goods_Permissions
+PermissionSet/EMEA_Regional_Business
+PermissionSet/EMEA_Super_User
+PermissionSet/EMEA_Valuations
+PermissionSet/EMEA_Valuations_Service_Line_Champion
+PermissionSet/Edit_Permission_for_Goods
+PermissionSet/Export_Reports
+PermissionSet/FieldTrip_Permission
+PermissionSet/France_Consulting_Service
+PermissionSet/France_Investor_Relations
+PermissionSet/France_Leads
+PermissionSet/France_Transaction_Demand_Agency
+PermissionSet/France_Transaction_Offer_Agency
+PermissionSet/Language_Entry_Translation_Permissions
+PermissionSet/Lightning_Experience
+PermissionSet/Lightning_Report_Builder
+PermissionSet/Local_SPOC_Create_Edit_Permission
+PermissionSet/Manage_Event_Monitoring_Wave
+PermissionSet/Manage_Internal_Users
+PermissionSet/Manage_LoginAs_Users
+PermissionSet/Manage_Public_List_Views_Permission
+PermissionSet/Manage_Users
+PermissionSet/Modify_All_Data_Permission
+PermissionSet/Opportunity_Alerts_Implementation
+PermissionSet/PAC_Capital_Markets_Metro_special_categories
+PermissionSet/PAC_Capital_Markets_special_categories
+PermissionSet/PAC_Hotels_special_categories
+PermissionSet/PAC_Industrial_special_categories
+PermissionSet/PAC_Office_special_categories
+PermissionSet/PAC_Retail_special_categories
+PermissionSet/Process_Builder_Permission
+PermissionSet/Regional_Business_Support
+PermissionSet/Reports_Dashboards_Data_Export_for_Super_Users
+PermissionSet/Tableau_Dashboard_Permission
+PermissionSet/UK_Key_Contact_Segmentation_Permissions
+PermissionSet/UK_Lease_Lease_Consultancy
+PermissionSet/UK_Rating
+PermissionSet/VAS_Account_Field_Rights
+Profile/API Admin
+Profile/Admin
+Profile/Analytics Cloud Integration User
+Profile/Analytics Cloud Security User
+Profile/Okram999 - APAC - Agency Brokerage
+Profile/Okram999 - APAC - Project Management
+Profile/Okram999 - Chatter Free
+Profile/Okram999 - Chatter Only
+Profile/Okram999 - EMEA - Business Development
+Profile/Okram999 - EMEA - Data Admin
+Profile/Okram999 - France - Business Development
+Profile/Okram999 - France - Data Admin
+Profile/Okram999 - JAPAN - Project Management
+Profile/Okram999 - Read Only
+Profile/Okram999 - Regional Support
+Profile/Okram999 - SPOC Admin
+Profile/Okram999 API Administrator
+Profile/Okram999 Broker - AMER - Agency Brokerage
+Profile/Okram999 Broker - AMER - Asset Services
+Profile/Okram999 Broker - AMER - Capital Markets
+Profile/Okram999 Broker - AMER - GWS
+Profile/Okram999 Broker - AMER - Multi Business Line
+Profile/Okram999 Broker - AMER - Occupier Brokerage
+Profile/Okram999 Broker - AMER - Valuations %26 Advisory Services
+Profile/Okram999 Broker - APAC - Agency Brokerage
+Profile/Okram999 Broker - APAC - Asset Services
+Profile/Okram999 Broker - APAC - Capital Markets
+Profile/Okram999 Broker - APAC - GWS
+Profile/Okram999 Broker - APAC - Multi Business Line
+Profile/Okram999 Broker - APAC - Occupier Brokerage
+Profile/Okram999 Broker - APAC - Valuation %26 Advisory
+Profile/Okram999 Broker - EMEA - Agency Brokerage
+Profile/Okram999 Broker - EMEA - Asset Services
+Profile/Okram999 Broker - EMEA - Capital Markets
+Profile/Okram999 Broker - EMEA - GWS
+Profile/Okram999 Broker - EMEA - Multi Business Line
+Profile/Okram999 Broker - EMEA - Occupier Brokerage
+Profile/Okram999 Broker - EMEA - Valuation %26 Advisory
+Profile/Okram999 Broker - France - Multi Business Line
+Profile/Okram999 Broker - GIA - Asset Services
+Profile/Okram999 Broker - JAPAN - Agency Brokerage
+Profile/Okram999 Broker - JAPAN - Asset Services
+Profile/Okram999 Broker - JAPAN - Capital Markets
+Profile/Okram999 Broker - JAPAN - GWS
+Profile/Okram999 Broker - JAPAN - Multi Business Line
+Profile/Okram999 Broker - JAPAN - Occupier Brokerage
+Profile/Okram999 Broker - JAPAN - Valuation %26 Advisory
+Profile/Okram999 Data Admin
+Profile/Okram999 Executive
+Profile/Okram999 Level 2 Admin
+Profile/Okram999 Manager - AMER - Agency Brokerage
+Profile/Okram999 Manager - AMER - Asset Services
+Profile/Okram999 Manager - AMER - Capital Markets
+Profile/Okram999 Manager - AMER - GWS
+Profile/Okram999 Manager - AMER - Multi Business Line
+Profile/Okram999 Manager - AMER - Occupier Brokerage
+Profile/Okram999 Manager - AMER - Valuations %26 Advisory Services
+Profile/Okram999 Manager - APAC - Agency Brokerage
+Profile/Okram999 Manager - APAC - Asset Services
+Profile/Okram999 Manager - APAC - Capital Markets
+Profile/Okram999 Manager - APAC - GWS
+Profile/Okram999 Manager - APAC - Multi Business Line
+Profile/Okram999 Manager - APAC - Occupier Brokerage
+Profile/Okram999 Manager - APAC - Valuation %26 Advisory
+Profile/Okram999 Manager - EMEA - Agency Brokerage
+Profile/Okram999 Manager - EMEA - Asset Services
+Profile/Okram999 Manager - EMEA - Capital Markets
+Profile/Okram999 Manager - EMEA - GWS
+Profile/Okram999 Manager - EMEA - Multi Business Line
+Profile/Okram999 Manager - EMEA - Occupier Brokerage
+Profile/Okram999 Manager - EMEA - Valuation %26 Advisory
+Profile/Okram999 Manager - France - Multi Business Line
+Profile/Okram999 Manager - GIA - Asset Services
+Profile/Okram999 Manager - JAPAN - Agency Brokerage
+Profile/Okram999 Manager - JAPAN - Asset Services
+Profile/Okram999 Manager - JAPAN - Capital Markets
+Profile/Okram999 Manager - JAPAN - GWS
+Profile/Okram999 Manager - JAPAN - Multi Business Line
+Profile/Okram999 Manager - JAPAN - Occupier Brokerage
+Profile/Okram999 Manager - JAPAN - Valuation %26 Advisory
+Profile/Okram999 Support Staff - AMER - Agency Brokerage
+Profile/Okram999 Support Staff - AMER - Capital Markets
+Profile/Okram999 Support Staff - AMER - Multi Business Line
+Profile/Okram999 Support Staff - AMER - Occupier Brokerage
+Profile/Okram999 Support Staff - APAC - Agency Brokerage
+Profile/Okram999 Support Staff - APAC - Capital Markets
+Profile/Okram999 Support Staff - APAC - Multi Business Line
+Profile/Okram999 Support Staff - APAC - Occupier Brokerage
+Profile/Okram999 Support Staff - EMEA - Agency Brokerage
+Profile/Okram999 Support Staff - EMEA - Capital Markets
+Profile/Okram999 Support Staff - EMEA - Multi Business Line
+Profile/Okram999 Support Staff - EMEA - Occupier Brokerage
+Profile/Okram999 Support Staff - France - Multi Business Line
+Profile/Okram999 Support Staff - JAPAN - Agency Brokerage
+Profile/Okram999 Support Staff - JAPAN - Capital Markets
+Profile/Okram999 Support Staff - JAPAN - Multi Business Line
+Profile/Okram999 Support Staff - JAPAN - Occupier Brokerage
+Profile/Chatter External User
+Profile/Chatter Free User
+Profile/Chatter Moderator User
+Profile/ContractManager
+Profile/Gold Partner User
+Profile/Guest License User
+Profile/MarketingProfile
+Profile/ReadOnly
+Profile/SolutionManager
+Profile/Standard
+QuickAction/Account.New_CoI
+QuickAction/Opportunity.New_CoI
+QuickAction/Goods__c.New_CoI
+RecordType/Lead.APAC_A_T_Investor_Leasing
+RecordType/Lead.APAC_Occupier
+RecordType/Opportunity.APAC_A_T_Investor_Leasing
+RecordType/Opportunity.APAC_Debt_Structured_Finance
+RecordType/Opportunity.APAC_Global_Workplace_Solutions
+RecordType/Opportunity.APAC_Landlord_Listing
+RecordType/Opportunity.APAC_Occupier
+RecordType/Opportunity.APAC_Goods_Purchase_Buy_Side
+RecordType/Opportunity.APAC_Goods_Sales
+RecordType/Opportunity.Asset_Services
+RecordType/Opportunity.GIA
+RecordType/Goods__c.AMER_Goods
+RecordType/Goods__c.APAC_Goods
+RecordType/Goods__c.EMEA_Goods
+Role/APAC_PAC_CM_AGRI
+SharingCriteriaRule/Activity_Sharing__c.HK_Exception_Scenario_OB_Sharing
+SharingCriteriaRule/Comp__c.Sharing_Hong_Kong_Island_Office
+SharingCriteriaRule/Comp__c.Sharing_Hong_Kong_KWL_Office
+SharingCriteriaRule/Goods__c.Sharing_Hong_Kong_All_Office_GRID
+SharingCriteriaRule/Goods__c.Sharing_Hong_Kong_KWL_Office
+SharingCriteriaRule/Goods__c.Sharing_Hong_Kong_Office_All_Non_GRID
+SharingCriteriaRule/Goods__c.Sharing_Goods_Hong_Kong_Island
+SharingOwnerRule/Offer__c.AU_CM_Metro_ACT_Offer_Sharing
+SharingOwnerRule/Offer__c.AU_CM_Metro_Brisbane_Offer_Sharing
+SharingOwnerRule/Offer__c.AU_CM_Metro_GC_Offer_Sharing
+SharingOwnerRule/Offer__c.AU_CM_Metro_NSW_Offer_Sharing
+SharingOwnerRule/Offer__c.AU_CM_Metro_NSW_Resi_Offer_Sharing
+SharingOwnerRule/Offer__c.AU_CM_Metro_SA_Offer_Sharing
+SharingOwnerRule/Offer__c.AU_CM_Metro_VIC_Offer_Sharing
+SharingOwnerRule/Offer__c.AU_CM_Metro_WA_Offer_Sharing
+SharingOwnerRule/Offer__c.AU_CM_Office_Offer_Sharing
+SharingOwnerRule/Offer__c.PAC_CM_Metro_Offer_Sharing
+SharingOwnerRule/Offer__c.PAC_CM_NZ_Office_Offer_Sharing
+SharingOwnerRule/Offer__c.PAC_CM_Office_Group_Offer_Sharing
+WorkflowFieldUpdate/Account.Local_Account_Site_Update
+WorkflowFieldUpdate/Opportunity.APAC_Copy_Requirement_Details_to_Oppty_D
+WorkflowRule/Account.Account Local Site Update
+WorkflowRule/Opportunity.APAC - Copy Requirement Details to Opportunity Details

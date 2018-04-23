@@ -1,0 +1,329 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Package 
+    xmlns="http://soap.sforce.com/2006/04/metadata">
+    <types>
+        <members>AccountAliasHelper</members>
+        <members>AccountAliasSelector</members>
+        <members>AccountHelper</members>
+        <members>AccountService</members>
+        <name>ApexClass</name>
+    </types>
+    <types>
+        <members>ConflictofInterest</members>
+        <members>ContactTrigger</members>
+        <members>GoodsTrigger</members>
+        <name>ApexTrigger</name>
+    </types>
+    <types>
+        <members>FumoGridView</members>
+        <members>FumoInstallments</members>
+        <name>AuraDefinitionBundle</name>
+    </types>
+    <types>
+        <members>Goods__c.Planning_Status__c</members>
+        <members>Goods__c.Goods_Number__c</members>
+        <name>CustomField</name>
+    </types>
+    <types>
+        <members>Streaming_Topics.OTInstallmentsTopic</members>
+        <members>Streaming_Topics.OppInstallmentsTopic</members>
+        <members>Streaming_Topics.OpportunityTopic</members>
+        <members>Streaming_Topics.GoodsTopic</members>
+        <name>CustomMetadata</name>
+    </types>
+    <types>
+        <members>Conflict_of_Interest__c</members>
+        <name>CustomObject</name>
+    </types>
+    <types>
+        <members>Conflict_of_Interest_Record_Page</members>
+        <members>Conflict_of_Interest_Record_Page1</members>
+        <members>Conflict_of_Interest_Record_Page2</members>
+        <members>Conflict_of_Interest_Record_Page3</members>
+        <name>FlexiPage</name>
+    </types>
+    <types>
+        <members>Sharing_Group_Hong_Kong_All</members>
+        <members>Sharing_Group_Hong_Kong_Island_Office</members>
+        <members>Sharing_Group_Hong_Kong_KWL_Offiice</members>
+        <members>Sharing_Group_Hong_Kong_Office_all</members>
+        <name>Group</name>
+    </types>
+    <types>
+        <members>Goods__c-APAC Goods Layout</members>
+        <members>Goods__c-EMEA Goods Layout</members>
+        <members>Goods__c-Goods Layout</members>
+        <name>Layout</name>
+    </types>
+    <types>
+        <members>APAC_Campaigns_and_CampaignLogic_Create_Edit_Permissions</members>
+        <members>APAC_Capital_Markets_Asia</members>
+        <members>APAC_Capital_Markets_India</members>
+        <members>APAC_Communication_Preferences_Create_Edit_Permissions</members>
+        <members>APAC_Edit_Permission_for_Goods</members>
+        <members>APAC_Enquiries_Space_Assessment_Create_Edit_Permissions</members>
+        <members>APAC_Landlord_Listing_and_Deal_Permissions</members>
+        <members>APAC_Pitch_Management_Team</members>
+        <members>APAC_Preference_Edit_Publications_Read_Permissions</members>
+        <members>APAC_Preference_Publication_Edit_Permissions</members>
+        <members>APAC_Strategic_Client_Permissions</members>
+        <members>Account_Competitor_Permission</members>
+        <members>Allow_updates_to_Key_Client_and_Pursuit_Account_LOB_fields_on_Account</members>
+        <members>AshDebug</members>
+        <members>Asset_Services_Country_Permissions_Australia</members>
+        <members>Asset_Services_Investor_Services_Account_Field_Rights</members>
+        <members>Asset_Services_LOB</members>
+        <members>Batch_User_Permission</members>
+        <members>Okram999_Public_Group_Permission</members>
+        <members>CM_India</members>
+        <members>Cases_Permission_Functional_Analysts</members>
+        <members>Cases_Permission_Regional_Product_Owners</members>
+        <members>Cases_Permission_Regional_Support_Specialists</members>
+        <members>Cases_Permission_Support_Specialists</members>
+        <members>Chatter_Group_Create_Permission</members>
+        <members>Country_Permissions_Australia</members>
+        <members>Country_Permissions_CEE</members>
+        <members>Country_Permissions_France</members>
+        <members>Country_Permissions_India</members>
+        <members>Country_Permissions_Italy</members>
+        <members>Country_Permissions_Netherlands</members>
+        <members>Create_and_Customize_Reports</members>
+        <members>DEV_Additional_Access</members>
+        <members>DIG_Team</members>
+        <members>Dashboards_Create_Edit_Permission</members>
+        <members>DataHugOkram999</members>
+        <members>Data_Export_Permissions</members>
+        <members>Data_Integration</members>
+        <members>Demand_Tools_Permission_Set</members>
+        <members>EMEA_A_T_Investor</members>
+        <members>EMEA_A_T_Occupier</members>
+        <members>EMEA_Asset_Services</members>
+        <members>EMEA_Asset_Services_Service_Line_Champion</members>
+        <members>EMEA_BC_P</members>
+        <members>EMEA_Capital_Markets_Capital_Advisors</members>
+        <members>EMEA_Capital_Markets_Capital_Advisors_Service_Line_Champion</members>
+        <members>EMEA_Capital_Markets_Investment_Properties</members>
+        <members>EMEA_Central_London</members>
+        <members>EMEA_Central_London_Service_Line_Champion</members>
+        <members>EMEA_Corporate_Marketing</members>
+        <members>EMEA_Corporate_Marketing_Service_Line_Champion</members>
+        <members>EMEA_Development</members>
+        <members>EMEA_Edit_Permission_for_Pitch_Advisor</members>
+        <members>EMEA_Ireland_Marketing</members>
+        <members>EMEA_Ireland_Marketing_Service_Line_Champion</members>
+        <members>EMEA_Leads_Permissions</members>
+        <members>EMEA_Occupier_Client_Care</members>
+        <members>EMEA_Goods_Permissions</members>
+        <members>EMEA_Regional_Business</members>
+        <members>EMEA_Super_User</members>
+        <members>EMEA_Valuations</members>
+        <members>EMEA_Valuations_Service_Line_Champion</members>
+        <members>Edit_Permission_for_Goods</members>
+        <members>Export_Reports</members>
+        <members>FieldTrip_Permission</members>
+        <members>France_Consulting_Service</members>
+        <members>France_Investor_Relations</members>
+        <members>France_Leads</members>
+        <members>France_Transaction_Demand_Agency</members>
+        <members>France_Transaction_Offer_Agency</members>
+        <members>Language_Entry_Translation_Permissions</members>
+        <members>Lightning_Experience</members>
+        <members>Lightning_Report_Builder</members>
+        <members>Local_SPOC_Create_Edit_Permission</members>
+        <members>Manage_Event_Monitoring_Wave</members>
+        <members>Manage_Internal_Users</members>
+        <members>Manage_LoginAs_Users</members>
+        <members>Manage_Public_List_Views_Permission</members>
+        <members>Manage_Users</members>
+        <members>Modify_All_Data_Permission</members>
+        <members>Opportunity_Alerts_Implementation</members>
+        <members>PAC_Capital_Markets_Metro_special_categories</members>
+        <members>PAC_Capital_Markets_special_categories</members>
+        <members>PAC_Hotels_special_categories</members>
+        <members>PAC_Industrial_special_categories</members>
+        <members>PAC_Office_special_categories</members>
+        <members>PAC_Retail_special_categories</members>
+        <members>Process_Builder_Permission</members>
+        <members>Regional_Business_Support</members>
+        <members>Reports_Dashboards_Data_Export_for_Super_Users</members>
+        <members>Tableau_Dashboard_Permission</members>
+        <members>UK_Key_Contact_Segmentation_Permissions</members>
+        <members>UK_Lease_Lease_Consultancy</members>
+        <members>UK_Rating</members>
+        <members>VAS_Account_Field_Rights</members>
+        <name>PermissionSet</name>
+    </types>
+    <types>
+        <members>API Admin</members>
+        <members>Admin</members>
+        <members>Analytics Cloud Integration User</members>
+        <members>Analytics Cloud Security User</members>
+        <members>Okram999 - APAC - Agency Brokerage</members>
+        <members>Okram999 - APAC - Project Management</members>
+        <members>Okram999 - Chatter Free</members>
+        <members>Okram999 - Chatter Only</members>
+        <members>Okram999 - EMEA - Business Development</members>
+        <members>Okram999 - EMEA - Data Admin</members>
+        <members>Okram999 - France - Business Development</members>
+        <members>Okram999 - France - Data Admin</members>
+        <members>Okram999 - JAPAN - Project Management</members>
+        <members>Okram999 - Read Only</members>
+        <members>Okram999 - Regional Support</members>
+        <members>Okram999 - SPOC Admin</members>
+        <members>Okram999 API Administrator</members>
+        <members>Okram999 Broker - AMER - Agency Brokerage</members>
+        <members>Okram999 Broker - AMER - Asset Services</members>
+        <members>Okram999 Broker - AMER - Capital Markets</members>
+        <members>Okram999 Broker - AMER - GWS</members>
+        <members>Okram999 Broker - AMER - Multi Business Line</members>
+        <members>Okram999 Broker - AMER - Occupier Brokerage</members>
+        <members>Okram999 Broker - AMER - Valuations %26 Advisory Services</members>
+        <members>Okram999 Broker - APAC - Agency Brokerage</members>
+        <members>Okram999 Broker - APAC - Asset Services</members>
+        <members>Okram999 Broker - APAC - Capital Markets</members>
+        <members>Okram999 Broker - APAC - GWS</members>
+        <members>Okram999 Broker - APAC - Multi Business Line</members>
+        <members>Okram999 Broker - APAC - Occupier Brokerage</members>
+        <members>Okram999 Broker - APAC - Valuation %26 Advisory</members>
+        <members>Okram999 Broker - EMEA - Agency Brokerage</members>
+        <members>Okram999 Broker - EMEA - Asset Services</members>
+        <members>Okram999 Broker - EMEA - Capital Markets</members>
+        <members>Okram999 Broker - EMEA - GWS</members>
+        <members>Okram999 Broker - EMEA - Multi Business Line</members>
+        <members>Okram999 Broker - EMEA - Occupier Brokerage</members>
+        <members>Okram999 Broker - EMEA - Valuation %26 Advisory</members>
+        <members>Okram999 Broker - France - Multi Business Line</members>
+        <members>Okram999 Broker - GIA - Asset Services</members>
+        <members>Okram999 Broker - JAPAN - Agency Brokerage</members>
+        <members>Okram999 Broker - JAPAN - Asset Services</members>
+        <members>Okram999 Broker - JAPAN - Capital Markets</members>
+        <members>Okram999 Broker - JAPAN - GWS</members>
+        <members>Okram999 Broker - JAPAN - Multi Business Line</members>
+        <members>Okram999 Broker - JAPAN - Occupier Brokerage</members>
+        <members>Okram999 Broker - JAPAN - Valuation %26 Advisory</members>
+        <members>Okram999 Data Admin</members>
+        <members>Okram999 Executive</members>
+        <members>Okram999 Level 2 Admin</members>
+        <members>Okram999 Manager - AMER - Agency Brokerage</members>
+        <members>Okram999 Manager - AMER - Asset Services</members>
+        <members>Okram999 Manager - AMER - Capital Markets</members>
+        <members>Okram999 Manager - AMER - GWS</members>
+        <members>Okram999 Manager - AMER - Multi Business Line</members>
+        <members>Okram999 Manager - AMER - Occupier Brokerage</members>
+        <members>Okram999 Manager - AMER - Valuations %26 Advisory Services</members>
+        <members>Okram999 Manager - APAC - Agency Brokerage</members>
+        <members>Okram999 Manager - APAC - Asset Services</members>
+        <members>Okram999 Manager - APAC - Capital Markets</members>
+        <members>Okram999 Manager - APAC - GWS</members>
+        <members>Okram999 Manager - APAC - Multi Business Line</members>
+        <members>Okram999 Manager - APAC - Occupier Brokerage</members>
+        <members>Okram999 Manager - APAC - Valuation %26 Advisory</members>
+        <members>Okram999 Manager - EMEA - Agency Brokerage</members>
+        <members>Okram999 Manager - EMEA - Asset Services</members>
+        <members>Okram999 Manager - EMEA - Capital Markets</members>
+        <members>Okram999 Manager - EMEA - GWS</members>
+        <members>Okram999 Manager - EMEA - Multi Business Line</members>
+        <members>Okram999 Manager - EMEA - Occupier Brokerage</members>
+        <members>Okram999 Manager - EMEA - Valuation %26 Advisory</members>
+        <members>Okram999 Manager - France - Multi Business Line</members>
+        <members>Okram999 Manager - GIA - Asset Services</members>
+        <members>Okram999 Manager - JAPAN - Agency Brokerage</members>
+        <members>Okram999 Manager - JAPAN - Asset Services</members>
+        <members>Okram999 Manager - JAPAN - Capital Markets</members>
+        <members>Okram999 Manager - JAPAN - GWS</members>
+        <members>Okram999 Manager - JAPAN - Multi Business Line</members>
+        <members>Okram999 Manager - JAPAN - Occupier Brokerage</members>
+        <members>Okram999 Manager - JAPAN - Valuation %26 Advisory</members>
+        <members>Okram999 Support Staff - AMER - Agency Brokerage</members>
+        <members>Okram999 Support Staff - AMER - Capital Markets</members>
+        <members>Okram999 Support Staff - AMER - Multi Business Line</members>
+        <members>Okram999 Support Staff - AMER - Occupier Brokerage</members>
+        <members>Okram999 Support Staff - APAC - Agency Brokerage</members>
+        <members>Okram999 Support Staff - APAC - Capital Markets</members>
+        <members>Okram999 Support Staff - APAC - Multi Business Line</members>
+        <members>Okram999 Support Staff - APAC - Occupier Brokerage</members>
+        <members>Okram999 Support Staff - EMEA - Agency Brokerage</members>
+        <members>Okram999 Support Staff - EMEA - Capital Markets</members>
+        <members>Okram999 Support Staff - EMEA - Multi Business Line</members>
+        <members>Okram999 Support Staff - EMEA - Occupier Brokerage</members>
+        <members>Okram999 Support Staff - France - Multi Business Line</members>
+        <members>Okram999 Support Staff - JAPAN - Agency Brokerage</members>
+        <members>Okram999 Support Staff - JAPAN - Capital Markets</members>
+        <members>Okram999 Support Staff - JAPAN - Multi Business Line</members>
+        <members>Okram999 Support Staff - JAPAN - Occupier Brokerage</members>
+        <members>Chatter External User</members>
+        <members>Chatter Free User</members>
+        <members>Chatter Moderator User</members>
+        <members>ContractManager</members>
+        <members>Gold Partner User</members>
+        <members>Guest License User</members>
+        <members>MarketingProfile</members>
+        <members>ReadOnly</members>
+        <members>SolutionManager</members>
+        <members>Standard</members>
+        <name>Profile</name>
+    </types>
+    <types>
+        <members>Account.New_CoI</members>
+        <members>Opportunity.New_CoI</members>
+        <members>Goods__c.New_CoI</members>
+        <name>QuickAction</name>
+    </types>
+    <types>
+        <members>Lead.APAC_A_T_Investor_Leasing</members>
+        <members>Lead.APAC_Occupier</members>
+        <members>Opportunity.APAC_A_T_Investor_Leasing</members>
+        <members>Opportunity.APAC_Debt_Structured_Finance</members>
+        <members>Opportunity.APAC_Global_Workplace_Solutions</members>
+        <members>Opportunity.APAC_Landlord_Listing</members>
+        <members>Opportunity.APAC_Occupier</members>
+        <members>Opportunity.APAC_Goods_Purchase_Buy_Side</members>
+        <members>Opportunity.APAC_Goods_Sales</members>
+        <members>Opportunity.Asset_Services</members>
+        <members>Opportunity.GIA</members>
+        <members>Goods__c.AMER_Goods</members>
+        <members>Goods__c.APAC_Goods</members>
+        <members>Goods__c.EMEA_Goods</members>
+        <name>RecordType</name>
+    </types>
+    <types>
+        <members>APAC_PAC_CM_AGRI</members>
+        <name>Role</name>
+    </types>
+    <types>
+        <members>Activity_Sharing__c.HK_Exception_Scenario_OB_Sharing</members>
+        <members>Comp__c.Sharing_Hong_Kong_Island_Office</members>
+        <members>Comp__c.Sharing_Hong_Kong_KWL_Office</members>
+        <members>Goods__c.Sharing_Hong_Kong_All_Office_GRID</members>
+        <members>Goods__c.Sharing_Hong_Kong_KWL_Office</members>
+        <members>Goods__c.Sharing_Hong_Kong_Office_All_Non_GRID</members>
+        <members>Goods__c.Sharing_Goods_Hong_Kong_Island</members>
+        <name>SharingCriteriaRule</name>
+    </types>
+    <types>
+        <members>Offer__c.AU_CM_Metro_ACT_Offer_Sharing</members>
+        <members>Offer__c.AU_CM_Metro_Brisbane_Offer_Sharing</members>
+        <members>Offer__c.AU_CM_Metro_GC_Offer_Sharing</members>
+        <members>Offer__c.AU_CM_Metro_NSW_Offer_Sharing</members>
+        <members>Offer__c.AU_CM_Metro_NSW_Resi_Offer_Sharing</members>
+        <members>Offer__c.AU_CM_Metro_SA_Offer_Sharing</members>
+        <members>Offer__c.AU_CM_Metro_VIC_Offer_Sharing</members>
+        <members>Offer__c.AU_CM_Metro_WA_Offer_Sharing</members>
+        <members>Offer__c.AU_CM_Office_Offer_Sharing</members>
+        <members>Offer__c.PAC_CM_Metro_Offer_Sharing</members>
+        <members>Offer__c.PAC_CM_NZ_Office_Offer_Sharing</members>
+        <members>Offer__c.PAC_CM_Office_Group_Offer_Sharing</members>
+        <name>SharingOwnerRule</name>
+    </types>
+    <types>
+        <members>Account.Local_Account_Site_Update</members>
+        <members>Opportunity.APAC_Copy_Requirement_Details_to_Oppty_D</members>
+        <name>WorkflowFieldUpdate</name>
+    </types>
+    <types>
+        <members>Account.Account Local Site Update</members>
+        <members>Opportunity.APAC - Copy Requirement Details to Opportunity Details</members>
+        <name>WorkflowRule</name>
+    </types>
+    <version>39.0</version>
+</Package>
